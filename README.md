@@ -1,2 +1,3 @@
-# demo-ana-pendloski
-Redesign demo (noindex) for Ana Pendloski Fotografia pilot — not the official site.
+# Demo — Ana Pendloski Fotografia (redesign mock)
+
+**Não é o site oficial.** Deploy noindex para pitch.
